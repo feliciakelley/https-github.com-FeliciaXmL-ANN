@@ -1,4 +1,4 @@
-# Github's catalyst starter kit
+# Github
 
 ## Links
 
